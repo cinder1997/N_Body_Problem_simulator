@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>shader/body.frag</file>
+        <file>shader/body.vert</file>
+        <file>shader/axis.frag</file>
+        <file>shader/axis.vert</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>img/icon.jpg</file>
+        <file>img/starland.jpg</file>
+    </qresource>
+</RCC>
